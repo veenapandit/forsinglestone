@@ -1,0 +1,18 @@
+com/example/accessingdatarest/Address.java
+ com.example.accessingdatarest.Address
+com/example/accessingdatarest/Name.java
+ com.example.accessingdatarest.Name
+com/example/accessingdatarest/TypeRepository.java
+ com.example.accessingdatarest.TypeRepository
+com/example/accessingdatarest/Contact.java
+ com.example.accessingdatarest.Contact
+com/example/accessingdatarest/Phone.java
+ com.example.accessingdatarest.Phone
+com/example/accessingdatarest/Type.java
+ com.example.accessingdatarest.Type
+com/example/accessingdatarest/AccessingDataRestApplication.java
+ com.example.accessingdatarest.AccessingDataRestApplication
+com/example/accessingdatarest/ContactResource.java
+ com.example.accessingdatarest.ContactResource
+com/example/accessingdatarest/ContactRepository.java
+ com.example.accessingdatarest.ContactRepository
